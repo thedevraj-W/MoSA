@@ -1,0 +1,31 @@
+commodity_name,moisture_limit,fat_content,ph,ro2,shelf_days
+Whole Wheat Atta,14.0,1.8,6.2,0.0,120
+Maida (Refined Flour),14.0,1.0,6.1,0.0,150
+Polished Basmati Rice,13.0,0.6,6.4,0.0,365
+Suji / Rava (Semolina),13.5,0.9,6.2,0.0,120
+Chana Dal (Bengal Gram),12.0,4.8,6.3,0.0,180
+Fresh Paneer,60.0,22.0,5.6,0.0,15
+Skimmed Milk Powder,4.0,1.0,6.6,0.0,365
+Pure Desi Ghee,0.3,99.7,5.0,0.0,365
+Pasteurized Butter,16.0,80.0,6.2,0.0,180
+Pasteurized Toned Milk,88.0,3.5,6.7,0.0,3
+Turmeric Powder (Haldi),10.0,6.0,5.8,0.0,365
+Red Chilli Powder,10.0,12.0,5.4,0.0,270
+Garam Masala,10.0,10.0,5.5,0.0,270
+Whole Black Pepper,12.0,3.0,6.0,0.0,540
+Instant Gulab Jamun Mix,8.0,10.0,6.5,0.0,270
+Marie / Glucose Biscuits,4.5,12.0,6.8,0.0,210
+Potato Chips / Namkeen,2.0,32.0,6.0,0.0,150
+Roasted Cashew Nuts,3.0,45.0,6.2,0.0,270
+Cane Jaggery (Gur),7.0,0.3,5.6,0.0,210
+Milk Chocolate Bar,2.0,30.0,6.0,0.0,270
+Mustard Oil,0.25,99.9,6.0,0.0,365
+Mango Pickle (in Oil),48.0,25.0,3.4,0.0,365
+Tomato Ketchup / Sauce,70.0,0.3,3.9,0.0,270
+Instant Fried Noodles,5.0,18.0,6.4,0.0,270
+Fresh Mangoes (Alphonso),82.0,0.4,4.0,25.0,21
+Fresh Tomatoes,94.0,0.2,4.2,15.0,18
+Button Mushrooms,91.0,0.3,6.2,150.0,7
+Fresh Spinach (Palak),92.0,0.3,6.5,60.0,6
+Fresh Apples (Kinnaur),85.0,0.2,3.6,8.0,90
+Fresh Green Chillies,86.0,0.6,5.4,30.0,18

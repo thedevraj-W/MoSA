@@ -1,0 +1,8 @@
+material,thickness_um,wvtr,otr,acid_resistant,fat_safe,breathable,biodegradable,cost_inr_per_kg
+LDPE (Low-Density Polyethylene),70,11.0,2700.0,True,False,False,False,125.0
+HDPE (High-Density Polyethylene),60,3.8,2000.0,True,True,False,False,132.0
+PET / LLDPE Laminate,50,1.2,75.0,True,True,False,False,155.0
+PET / VMPET / LLDPE (Metalized),45,0.8,1.5,False,True,False,False,195.0
+PET / ALU / LLDPE (Aluminum Foil Laminate),90,0.005,0.005,True,True,False,False,340.0
+Biodegradable Film (PLA / PBAT),35,180.0,950.0,False,False,True,True,280.0
+Micro-Perforated LDPE / PP,30,14.0,12000.0,True,False,True,False,150.0
