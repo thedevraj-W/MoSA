@@ -10,14 +10,15 @@ st.set_page_config(
 )
 
 
+from pathlib import Path
+
 @st.cache_data
 def load_datasets():
-    materials_path = os.path.join("data", "materials.csv")
-    commodities_path = os.path.join("data", "commodities.csv")
+    base_dir = Path(__file__).resolve().parent
+    materials_path = base_dir / "data" / "materials.csv"
+    commodities_path = base_dir / "data" / "commodities.csv"
 
-    if not os.path.exists(materials_path) or not os.path.exists(
-        commodities_path
-    ):
+    if not materials_path.exists() or not commodities_path.exists():
         return None, None
 
     materials_df = pd.read_csv(materials_path)
